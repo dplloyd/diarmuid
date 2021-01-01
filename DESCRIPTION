@@ -1,0 +1,13 @@
+Package: diarmuid
+Type: Package
+Title: Diarmuid Lloyd's adhoc functions
+Version: 0.1.0
+Author: Diarmuid Lloyd
+Maintainer: Diarmuid Lloyd <diarmuid.lloyd@gmail.com>
+Description: A place for ad-hoc functions that I might want to reuse, or use regularly. Rather than have them spread through lots of .R files
+    in different directories, potentially forgetting about them, it feels tidier to have them all in one spot, which also makes version control
+    a bit easier. Could be overkill, and unlikely to be of much use to others...
+License: GNU GPLv3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
